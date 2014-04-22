@@ -1,0 +1,4 @@
+Example/Hosts
+ssh user1@host.domain.com
+ssh -l user2 host.domain.com
+ssh -X user1@host2.domain.com
