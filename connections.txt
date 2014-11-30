@@ -2,3 +2,7 @@
 user1@host.domain.com
 user2@host.domain.com
 user1@host2.domain.com
+
+#ExApp
+exapp@example.com
+exdb@exampledb.com
